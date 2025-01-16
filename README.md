@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-# thyroid-cancer-project
-Differentiated Thyroid Cancer Recurrence EDA Project
-=======
+
+![img01 - Model Input](https://github.com/user-attachments/assets/c5faf0be-2596-4267-8f99-ed27c233e9c4)
+![img01 - EDA](https://github.com/user-attachments/assets/fbbc0b00-e52b-4504-88f0-6a23e97b144b)
+
+
 # Differentiated Thyroid Cancer Recurrence EDA Project
 
 This project aims to analyze the Differentiated Thyroid Cancer Recurrence dataset using Exploratory Data Analysis (EDA) and build predictive models to classify whether cancer is likely to recur.
@@ -40,16 +41,19 @@ To run this project, ensure you have Python installed and set up the environment
    ```bash
    git clone <repository-url>
    cd <repository-folder>
+   ```
 
 2. Create a virtual environment (optional but recommended):
    ```bash
    python -m venv venv
    source venv/bin/activate  # On macOS/Linux
    venv\Scripts\activate     # On Windows
+   ```
 
 3. Clone the repository:
    ```bash
    pip install -r requirements.txt
+   ```
 
 ---
 
@@ -57,6 +61,7 @@ To run this project, ensure you have Python installed and set up the environment
 Run the Streamlit application:
    ```bash
    pip install -r requirements.txt
+   ```
 
 ---
 
@@ -116,4 +121,3 @@ Run the Streamlit application:
    João Victor Aragão
    - More Projects: [joaoaragao](https://joaovictor.onrender.com/)
    - GitHub: [joaovictor-aragao](https://github.com/joaovictor-aragao)
->>>>>>> ae0c0a2 (Add files)
